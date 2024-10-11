@@ -22,7 +22,7 @@ export default function GlobalState({ children }) {
     // const baseURL = "https://expense-tracker-backend-navy.vercel.app/";
 
     //AWS环境
-    const baseURL = "http://54.206.71.113:8000/";
+    const baseURL = "https://54.206.71.113:8000/";
 
     // const baseURL = "http://127.0.0.1:8000/";
     // // const baseURL_Auth = "http://127.0.0.1:8000/";
